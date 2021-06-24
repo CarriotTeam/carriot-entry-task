@@ -1,4 +1,4 @@
-# carriot-entry-task
+# Carriot-learning resources
 In The course tutorial you'll get familiar with [carriot](https://carriot.ir/)'s back-end technological stack. At the end we expect you to become a qualified software engineer, able to quickly and creatively solve the tasks that are assigned to you.  
 
 The general goals of this program are as follows:
