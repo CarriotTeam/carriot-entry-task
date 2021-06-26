@@ -58,7 +58,7 @@ You can find a complete set of books [here](https://github.com/dariubs/GoBooks),
 There are many other resources online, try to find some that are good for you and learn more about *Golang*. While learning *Go* keep in mind that ***Go* is neither a completely procedural nor a completely object oriented language, go is a multi-paradigm language with its own style of programming**, so don't try to code like *Java, C++, Python etc. in Go*
 
 ###  Assignment 1
- Write a simple web-server in Go, your web server should handle **HTTP GET** requests cumming from a browser. Here are the details:
+ Write a simple web-server in Go, your web server should handle **HTTP GET** requests from a browser. Here are the details:
 
  - Create a `server.go` file.
  - Create a `http server` in your file.
